@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CV/static/css/main.7a78aacc.css",
+    "main.js": "/CV/static/js/main.83667e95.js",
+    "static/media/about.png": "/CV/static/media/about.751553ec84c945d0e10b.png",
+    "static/media/portfolio-img1.png": "/CV/static/media/portfolio-img1.ca1297078972212c6505.png",
+    "static/media/site-bg.jpg": "/CV/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/me.png": "/CV/static/media/me.029ea13d13393cc970ae.png",
+    "static/media/CV_Daniil_Yevtukhov.pdf": "/CV/static/media/CV_Daniil_Yevtukhov.38f247b36b573ce71870.pdf",
+    "index.html": "/CV/index.html",
+    "main.7a78aacc.css.map": "/CV/static/css/main.7a78aacc.css.map",
+    "main.83667e95.js.map": "/CV/static/js/main.83667e95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a78aacc.css",
+    "static/js/main.83667e95.js"
+  ]
+}
